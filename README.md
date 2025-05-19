@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://in.linkedin.com/in/om-didolkar-961b99252)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:om2.did.rt22@dypatil.edu)
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-green)][(https://omdidolkar564.github.io/resume/OmSalilDidolkar_22CE1093.pdf)]
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-green)](https://omdidolkar564.github.io/resume/OmSalilDidolkar_22CE1093.pdf)
 
 ---
 
