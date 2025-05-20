@@ -64,7 +64,6 @@ CGPA: 9.40/10 | 2022 - Present
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white" />
 </p>
