@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-Aspiring Computer Engineer with a passion for AI, Machine Learning, and Cyber Security. I am seeking a training internship to expand my knowledge and apply my skills to impactful projects.
+Aspiring Computer Engineer with a passion for Data Science, AI, Machine Learning, and Cyber Security. I am seeking a training internship to expand my knowledge and apply my skills to impactful projects.
 
 ---
 
