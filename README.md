@@ -16,7 +16,7 @@ Aspiring Computer Engineer with a passion for Data Science, AI, Machine Learning
 
 **B.Tech in Computer Engineering (Data Science)**  
 Ramrao Adik Institute of Technology, D. Y. Patil Deemed to be University  
-CGPA: 9.40/10 | 2022 - Present
+CGPA: 8.38/10 | 2022 - Present
 
 ---
 
